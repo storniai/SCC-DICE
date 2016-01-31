@@ -18,7 +18,7 @@ a3 = ((1-.15)^(-1)-1)/2.5^2; %calibrated to be 15%
 a4 = ((1-.30)^(-1)-1)/2.5^2; %calibrated to be 30% 
 
 % Input parameters:
-rate = [.01 .02 .03 .04 .05 .06 .07 .09 .10];    % Fixed discount rates
+rate = [.01 .02 .03 .04 .05 .06 .07 .08 .09 .10];    % Fixed discount rates
 a    = 0.0028388; % Coefficient of damage function
 b    = 2;         % Exponent of damage function
 H    = 2300;      % Time horizon for calculating the SCC [year]
