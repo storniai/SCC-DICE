@@ -1,2 +1,5 @@
-* [ ] Read me
-* [ ] Unit tests added
+
+## CHECKLIST:
+
+* [ ] I have tested this code
+* [ ] I have updated README
