@@ -11,7 +11,7 @@
 %   modified output printing (.xls)
 %==========================================================================
 
-% ADDED: parameter specifying share of damages to TFP
+% ADDED: parameter specifying share of damages to TFP MORE EXTRAS
 phi = 0;
 % ADDED: define alternative damage parameters
 a3 = ((1-.15)^(-1)-1)/2.5^2; %calibrated to be 15% 
@@ -23,7 +23,7 @@ a    = 0.0028388; % Coefficient of damage function
 b    = 2;         % Exponent of damage function
 H    = 2300;      % Time horizon for calculating the SCC [year]
 
-% Climate sensitivity parameters TO BE UPDATED MORE TO HERE
+% Climate sensitivity parameters TO BE UPDATED MORE TO HERE 
 fbar = 0.61979;
 fsig = 0.18407;
 maxT = 10;
