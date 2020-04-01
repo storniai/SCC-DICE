@@ -23,7 +23,7 @@ a    = 0.0028388; % Coefficient of damage function
 b    = 2;         % Exponent of damage function
 H    = 2300;      % Time horizon for calculating the SCC [year]
 
-% Climate sensitivity parameters TO BE UPDATED MORE TO HERE NEW STUFF
+% Climate sensitivity parameters TO BE UPDATED MORE TO HERE NEW STUFF 2 MORE
 fbar = 0.61979;
 fsig = 0.18407;
 maxT = 10;
