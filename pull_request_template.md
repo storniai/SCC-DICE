@@ -1,6 +1,5 @@
 
 ## CHECKLIST:
 
-* [ ] I have tested this code
-* [ ] I have updated README
-* [ ] I have updated documentation (Notion)
+* [ ] I have added/updated tests for this feature
+* [ ] I have updated documentation (eg. README)
